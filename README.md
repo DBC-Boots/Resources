@@ -1,45 +1,25 @@
-# Resources
-Resources for DBC Graduates
+# Resource Guide for DBC Graduates
 
 Welcome ye all who have found the Post-DBC Resources guide. This section are resources to get you started for your Post-DBC life. We're using the Wiki instead of contributing to the Repository. That way, anyone who joins can make changes without having to do commits (we're not official here).
 
-[Wiki Page](https://github.com/DBC-Boots/Resources/wiki)
+For full access, check out the [Wiki Page](https://github.com/DBC-Boots/Resources/wiki).
 
-Welcome to the Resources Wiki for Post-DBC Graduates. The Wiki is divided into subsections.
+The Wiki is divided into subsections.
 
 Join our Slack channel, [#Resources](https://reply-all.slack.com/messages/resources/), on [Reply-All](reply-all.slack.com/messages/general/).
 
 # Resource Sections
 
-* [[Job Searching]]
-* [[Hiring]]
-* [[Speaking]]
-* [[Organizing Meetups]]
-* [[Dev Interviews]]
-* [[Networking]]
-* [[Mentorships]]
-* [[Learning Another Language]]
-* [[Podcasts]]
-* [[Code of Conduct]]
-
-## Contribution Guide
-
-Looking at very well documented Github Wikis, for example [Snowplow](https://github.com/snowplow/snowplow/wiki) and [d3.js](https://github.com/mbostock/d3/wiki) from [this Quora thread](http://www.quora.com/What-are-some-examples-of-very-well-made-GitHub-wiki-pages-for-open-source-projects), the pages are name-spaced corresponding to its section.
-
-### Name Spacing
-
-- **Job Searching** -> [*pending*]
-- **Hiring** -> [*pending*]
-- **Speaking** -> [*pending*]
-- **Organizing Meetups** -> [*pending*]
-- **Dev Interviews** -> [*pending*]
-- **Networking** -> [*pending*]
-- **Mentorships** -> [*pending*]
-- **Learning Another Language** -> Language-[*name of page*]
-
-### Edit Message
-
-Personally haven't been too good about it. Make it short and to the point if you're editing someone else's sentences.
+* [Job Searching]()
+* [Hiring]()
+* [Speaking]()
+* [Organizing Meetups]()
+* [Dev Interviews]()
+* [Networking]()
+* [Mentorships]()
+* [Learning Another Language]()
+* [Podcasts]()
+* [Code of Conduct]()
 
 ## Credits
 
