@@ -5,4 +5,52 @@ Welcome ye all who have found the Post-DBC Resources guide. This section are res
 
 [Wiki Page](https://github.com/DBC-Boots/Resources/wiki)
 
-Otherwise, you can [browse within Github](Resources.wiki/Home).
+Welcome to the Resources Wiki for Post-DBC Graduates. The Wiki is divided into subsections.
+
+Join our Slack channel, [#Resources](https://reply-all.slack.com/messages/resources/), on [Reply-All](reply-all.slack.com/messages/general/).
+
+# Resource Sections
+
+* [[Job Searching]]
+* [[Hiring]]
+* [[Speaking]]
+* [[Organizing Meetups]]
+* [[Dev Interviews]]
+* [[Networking]]
+* [[Mentorships]]
+* [[Learning Another Language]]
+* [[Podcasts]]
+* [[Code of Conduct]]
+
+## Contribution Guide
+
+Looking at very well documented Github Wikis, for example [Snowplow](https://github.com/snowplow/snowplow/wiki) and [d3.js](https://github.com/mbostock/d3/wiki) from [this Quora thread](http://www.quora.com/What-are-some-examples-of-very-well-made-GitHub-wiki-pages-for-open-source-projects), the pages are name-spaced corresponding to its section.
+
+### Name Spacing
+
+- **Job Searching** -> [*pending*]
+- **Hiring** -> [*pending*]
+- **Speaking** -> [*pending*]
+- **Organizing Meetups** -> [*pending*]
+- **Dev Interviews** -> [*pending*]
+- **Networking** -> [*pending*]
+- **Mentorships** -> [*pending*]
+- **Learning Another Language** -> Language-[*name of page*]
+
+### Edit Message
+
+Personally haven't been too good about it. Make it short and to the point if you're editing someone else's sentences.
+
+## Credits
+
+Thanks to [Oli Treadwell](https://twitter.com/olitreadwell) for the idea on May 6th, 8:14 AM.
+
+> @channel: spitballin’ ideas here, but have we thought about creating a github repo from DBC alums for DBC alums, which talks about different categories relevant to devs post-graduation? Or has this already been done?
+
+> Topics of interest: Hiring, Speaking, Organising Meetups, Dev Interviews, Networking, Mentee & Mentors.
+
+> I imagine it’d start out really loosely and then as it grows it can move around and be re-structured. It seems like there’s a lot of space here for a publicly created "DBC alum accredited” resource like this to bring more people into the DBC fold and also help everyone.
+
+> Like a style guide
+
+Hence this Github organization was born. [Jeremy Wong](https://twitter.com/jermspeaks) has been running most of this organization. [Kelly Yamamoto](https://twitter.com/minedamnesia) suggests us to follow the organization's [[Code of Conduct]].
