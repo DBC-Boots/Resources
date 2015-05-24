@@ -10,16 +10,16 @@ Join our Slack channel, [#Resources](https://reply-all.slack.com/messages/resour
 
 # Resource Sections
 
-* [Job Searching]()
-* [Hiring]()
-* [Speaking]()
-* [Organizing Meetups]()
-* [Dev Interviews]()
-* [Networking]()
-* [Mentorships]()
-* [Learning Another Language]()
-* [Podcasts]()
-* [Code of Conduct]()
+* [Job Searching](https://github.com/DBC-Boots/Resources/wiki/Job-Searching)
+* [Hiring](https://github.com/DBC-Boots/Resources/wiki/Hiring)
+* [Speaking](https://github.com/DBC-Boots/Resources/wiki/Speaking)
+* [Organizing Meetups](https://github.com/DBC-Boots/Resources/wiki/Organizing-Meetups)
+* [Dev Interviews](https://github.com/DBC-Boots/Resources/wiki/Dev-Interviews)
+* [Networking](https://github.com/DBC-Boots/Resources/wiki/Networking)
+* [Mentorships](https://github.com/DBC-Boots/Resources/wiki/Mentorships)
+* [Learning Another Language](https://github.com/DBC-Boots/Resources/wiki/Learning-Another-Language)
+* [Podcasts](https://github.com/DBC-Boots/Resources/wiki/Podcasts)
+* [Code of Conduct](https://github.com/DBC-Boots/Resources/wiki/Code-of-Conduct)
 
 ## Credits
 
