@@ -17,7 +17,6 @@ Join our Slack channel, [#Resources](https://reply-all.slack.com/messages/resour
 * [Networking](https://github.com/DBC-Boots/Resources/wiki/Networking)
 * [Mentorships](https://github.com/DBC-Boots/Resources/wiki/Mentorships)
 * [Learning Another Language](https://github.com/DBC-Boots/Resources/wiki/Learning-Another-Language)
-* [Podcasts](https://github.com/DBC-Boots/Resources/wiki/Podcasts)
 * [Guide for All Developers](https://github.com/DBC-Boots/Resources/wiki/Guide-for-All-Developers)
 * [Code of Conduct](https://github.com/DBC-Boots/Resources/wiki/Code-of-Conduct)
 
