@@ -11,6 +11,7 @@ Join our Slack channel, [#Resources](https://reply-all.slack.com/messages/resour
 # Resource Sections
 * [Job Searching](https://github.com/DBC-Boots/Resources/wiki/Job-Searching)
 * [Hiring](https://github.com/DBC-Boots/Resources/wiki/Hiring)
+* [Work](https://github.com/DBC-Boots/Resources/wiki/Work)
 * [Speaking](https://github.com/DBC-Boots/Resources/wiki/Speaking)
 * [Organizing Meetups](https://github.com/DBC-Boots/Resources/wiki/Organizing-Meetups)
 * [Dev Interviews](https://github.com/DBC-Boots/Resources/wiki/Dev-Interviews)
